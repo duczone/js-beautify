@@ -18,7 +18,7 @@ You can beautify javascript using JS Beautifier in your web browser, or on the c
 
 ## Web Browser
 Open [jsbeautifier.org](http://jsbeautifier.org/).  Options are available via the UI.
-
+Open [jsbeautifier-backup](https://cdn.rawgit.com/duczone/js-beautify/master/index.html).  Alternative.
 ## Python
 To beautify using python:
 
